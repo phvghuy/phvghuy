@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Pham Vo Gia Huy</h1>
-<p>Web Development Student at University of Information Technology, passionate about building modern and scalable web applications.</p>
+<p>Aspiring Backend Engineer at UIT | Crafting scalable backends and efficient distributed systems.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
